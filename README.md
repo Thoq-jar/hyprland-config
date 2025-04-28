@@ -1,3 +1,2 @@
 # thing
-Styles and config are for waybar
-the other files are named for you :)
+Waybar config is a modification of [Dracula/Waybar](https://github.com/dracula/waybar)
