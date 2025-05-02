@@ -9,14 +9,15 @@ configuration {
     foreground: #f8f8f2;
     background-color: #282a36;
     active-background: #ba3a96;
+    bordercolor: #db9232 ba3a96;
     urgent-background: #ff5555;
     urgent-foreground: #282a36;
     selected-background: @active-background;
     selected-urgent-background: @urgent-background;
     selected-active-background: @active-background;
     separatorcolor: @active-background;
-    bordercolor: @active-background;
 }
+
 
 #window {
     background-color: @background-color;
