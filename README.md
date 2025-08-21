@@ -13,5 +13,3 @@ cp /tmp/hyprland-config/rofi $HOME/.config/rofi/
 cp /tmp/hyprland-config/waybar $HOME/.config/waybar/
 cp /tmp/hyprland-config/misc/wallpaper.jpg $HOME/.config/hypr/wallpaper.jpg
 ```
-
-```
