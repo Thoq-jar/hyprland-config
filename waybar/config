@@ -40,7 +40,7 @@
     "spacing": 4
   },
   "custom/weather": {
-    "exec": "~/.config/waybar/wittr.sh",
+    "exec": "$HOME/.config/waybar/weather.sh",
     "return-type": "json",
     "format": "{}",
     "tooltip": true,
